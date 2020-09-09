@@ -13,7 +13,8 @@ Código que configura a ponte entre o Arduino Uno e a plataforma ThingSpeak para
 ## Código do Aplicativo Android
 Arquivo de projeto de aplicativo Android da Plataforma Mit App Inventor 2 usado para obter os dados de leituras dos sensores através da plataforma ThingSpeak. (Front-End)
 
-# Feito por
+# Feito com empenho e dedicação por
 * Robson Prucoli Posse
+* Julio Cesar Goldner Vendramini
 * Sabrina Gobbi Scaldaferro
 * Victor Barcelos Lacerda
