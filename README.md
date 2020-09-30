@@ -1,5 +1,5 @@
 # Projeto Condutividade
-Repositório do projeto de pesquisa sobre um sensor de condutividade acessível.
+Repositório do projeto de pesquisa sobre um sensor de condutividade acessível. (2019-2020)
 
 # Composição do Repositório
 Este repositório é composto por vários projetos que, ao entrarem em execução, interagem entre si.
