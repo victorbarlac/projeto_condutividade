@@ -1,3 +1,15 @@
+/*
+
+2019-2020
+PROJETO DO IFES CAMPUS ITAPINA EM PARCERIA COM O CAMPUS COLATINA
+FEITO POR:
+--JULIO CESAR GOLDNER VENDRAMINI
+--ROBSON PRUCOLI POSSE
+--SABRINA GOBBI SCALDAFERRO
+--VICTOR BARCELOS LACERDA
+
+*/
+
 // =====================================================================
 // INCLUSÃO DE BIBLIOTECAS USADAS PELO PROJETO
 // =====================================================================
